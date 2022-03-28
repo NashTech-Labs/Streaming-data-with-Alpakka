@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/knoldus/temp/Akka stream assignment/target/scala-2.12/akka-stream-assignment_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/temp/Akka stream assignment/target/scala-2.12/classes/org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/temp/Akka stream assignment/target/scala-2.12/classes/org/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/knoldus/kafkaImpl[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/temp/Akka stream assignment/target/scala-2.12/classes/org/knoldus/kafkaImpl[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/knoldus/kafkaImpl/ProcessingKafkaApplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/temp/Akka stream assignment/target/scala-2.12/classes/org/knoldus/kafkaImpl/ProcessingKafkaApplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/knoldus/kafkaImpl/ProcessingKafkaApplication$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/temp/Akka stream assignment/target/scala-2.12/classes/org/knoldus/kafkaImpl/ProcessingKafkaApplication$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/knoldus/kafkaImpl/ProcessingKafkaApplication$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/temp/Akka stream assignment/target/scala-2.12/classes/org/knoldus/kafkaImpl/ProcessingKafkaApplication$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConsumerApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/temp/Akka stream assignment/target/scala-2.12/classes/ConsumerApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ProducerApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/temp/Akka stream assignment/target/scala-2.12/classes/ProducerApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConsumerApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/temp/Akka stream assignment/target/scala-2.12/classes/ConsumerApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ProducerApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/temp/Akka stream assignment/target/scala-2.12/classes/ProducerApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/temp/Akka stream assignment/target/scala-2.12/classes/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ProducerApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/temp/Akka stream assignment/target/scala-2.12/classes/ProducerApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConsumerApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/temp/Akka stream assignment/target/scala-2.12/classes/ConsumerApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
